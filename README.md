@@ -1,4 +1,4 @@
-# Virtual Tungsten Fatigue — Defect-Aware Digital Twin (Lite, no lab required)
+# Tungsten-Twin: Defect-Aware Fatigue Simulator
 
 ## Introduction
 This mini-project is based on models for structural integrity and the lifetime of EB-PBF tungsten. It builds a digital twin: synthetic defect populations → Kitagawa/Murakami logic → short-crack Paris growth (MPa√m units) → Monte-Carlo life scatter. Outputs include a designer Kitagawa chart, S–N scatter with percentiles, and what-if studies (surface finishing, pore shape, clustering). 
