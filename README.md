@@ -76,7 +76,6 @@ $$N_f \to \infty \$$
 
 Integrate from \(a_0\) to \(a_c\) to obtain the life \(N_f\).
 
-> **Units:** Use $$\(\Delta K\)$$ in MPa$\sqrt{\text{m}}$. Choose $$\(C,m\)$$ consistent with those units (e.g., $$\(C\sim 10^{-12}\$$), \($$m\approx 3\)$$). Convert stresses $$\(\Delta\sigma\)$$ from Pa to MPa when computing $$\(\Delta K\)$$.
 
 ---
 
