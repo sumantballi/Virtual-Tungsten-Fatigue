@@ -48,12 +48,12 @@ What-ifs (unit-corrected):
 
 Let the equivalent crack length be
 $$
-a \;\approx\; \frac{\text{area}}{\pi}
-\quad\text{with}\quad \text{area} = (\sqrt{\text{area}})^2 .
+a \;\approx\; \frac{\text{area}}{\pi}$$
+$$\quad\text{with}\quad \text{area} = (\sqrt{\text{area}})^2 
 $$
 
 For small defects (threshold control),
-$$\Delta\sigma_{\text{allow}} \;\approx\; \frac{\Delta K_{\text{th}}}{\sqrt{\pi\,a}} \;$$
+$$\Delta\sigma_{\text{allow}} \\approx\ \frac{\Delta K_{\text{th}}}{\sqrt{\pi\,a}} \;$$
 
 Transition to a long-crack/strength limit is smoothly blended to form the designer curve.
 
@@ -62,8 +62,8 @@ Transition to a long-crack/strength limit is smoothly blended to form the design
 ### Initial flaw from pore (Murakami-style mapping)
 
 Map a pore to an initial crack size using
-$$ a_0 \;\propto\; \sqrt{\text{area}}
-\quad\text{(larger proportionality for surface pores)}$$
+$$ a_0 \;\propto\; \sqrt{\text{area}}$$
+$$\quad\text{(larger proportionality for surface pores)}$$
 
 ---
 
