@@ -102,8 +102,6 @@ Data-driven pores: Swap synthetic pore stats with XCT-derived distributions.
 4. **Sanaei, N.; Fatemi, A.** “Defects in Additive Manufactured Metals and Their Effect on Fatigue Performance: A State-of-the-Art Review.” *Progress in Materials Science*, 2021.  
    *Why cited:* Comprehensive AM-fatigue review—supports your assumptions on defect types, surface finishing (100–300 µm removal), and scatter drivers.
 
-Load cases: Add mean stress (R-ratio) effects and multiaxial surrogates.
 
-Reliability: Fit parametric life distributions (Weibull/Lognormal) for design allowables.
 
 
