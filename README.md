@@ -88,6 +88,20 @@ FE drop-in: Replace SCF with FEniCSx/CalculiX Δσ hot-spots or ΔK/J fields (pi
 
 Data-driven pores: Swap synthetic pore stats with XCT-derived distributions.
 
+## References & Background
+
+1. **Murakami, Y.** *Metal Fatigue: Effects of Small Defects and Nonmetallic Inclusions.* 2nd ed., Elsevier, 2019.  
+   *Why cited:* Canonical √area approach and surface vs. subsurface treatment—used to map pores to initial crack size \(a_0\).
+
+2. **Kitagawa, H.; Takahashi, S.** “Applicability of Fracture Mechanics to Very Small Cracks or Cracks in the Early Stage.” In *Proceedings of the 2nd International Conference on Mechanical Behavior of Materials*, 1976.  
+   *Why cited:* Foundation of the Kitagawa–Takahashi diagram you use for allowable stress vs. defect size.
+
+3. **El Haddad, M. H.; Topper, T. H.; Smith, K. N.** “Prediction of Nonpropagating Cracks.” *Engineering Fracture Mechanics*, 1980.  
+   *Why cited:* Classic short-crack/Kitagawa–El-Haddad bridging concept that underpins your threshold-to-long-crack blending.
+
+4. **Sanaei, N.; Fatemi, A.** “Defects in Additive Manufactured Metals and Their Effect on Fatigue Performance: A State-of-the-Art Review.” *Progress in Materials Science*, 2021.  
+   *Why cited:* Comprehensive AM-fatigue review—supports your assumptions on defect types, surface finishing (100–300 µm removal), and scatter drivers.
+
 Load cases: Add mean stress (R-ratio) effects and multiaxial surrogates.
 
 Reliability: Fit parametric life distributions (Weibull/Lognormal) for design allowables.
